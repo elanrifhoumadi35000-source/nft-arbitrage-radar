@@ -1,0 +1,9 @@
+{
+  "collections": ["collection-slug-ici"],
+  "max_listings_per_collection": 20,
+  "request_delay_seconds": 0.25,
+  "extra_fees_pct": 0.0,
+  "gas_reserve_native": 0.0,
+  "minimum_profit_native": 0.0,
+  "minimum_profit_pct": 1.0
+}
